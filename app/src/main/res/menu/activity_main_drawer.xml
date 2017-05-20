@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Elemental Data">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_periodic"
+                    android:title="Periodic" />
+                <item
+                    android:id="@+id/nav_physical"
+                    android:title="Physical" />
+                <item
+                    android:id="@+id/nav_electrical"
+                    android:title="Electrical" />
+                <item
+                    android:id="@+id/nav_bonding"
+                    android:title="Bonding" />
+                <item
+                    android:id="@+id/nav_structure"
+                    android:title="Structure" />
+                <item
+                    android:id="@+id/nav_thermodynamic"
+                    android:title="Thermodynamic" />
+                <item
+                    android:id="@+id/nav_reactivity"
+                    android:title="Reactivity" />
+                <item
+                    android:id="@+id/nav_other"
+                    android:title="Other" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Acid-Base Data">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/Acids" android:title="Acids"/>
+                <item android:id="@+id/Bases" android:title="Bases"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="Calculators">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/Dilution" android:title="Dilution"/>
+                <item android:id="@+id/Buffer" android:title="Buffer"/>
+                <item android:id="@+id/Titration" android:title="Titration"/>
+                <item android:id="@+id/pHOH" android:title="pH and pOH"/>
+            </group>
+        </menu>
+    </item>
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
