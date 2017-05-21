@@ -1,0 +1,74 @@
+Acid name,Formula,Conjugate base,Ka,pKa
+Hydronium ion,H3O+,H2O,1,0
+Iodic,HIO3,IO3-,1.6 x 10-1,0.8
+Oxalic (1),H2C2O4,HC2O4-,5.9 x 10-2,1.23
+Phosphorous (1),H3PO3,H2PO3-,1.6 x 10-2,1.80
+Sulfurous (1),H2SO3,HSO3-,1.54 x 10-2,1.81
+Sulfuric (2),HSO4-,SO42-,1.2 x 10-2,1.92
+Selenic (2),HSeO4-,SeO42-,1.2 x 10-2,1.92
+Chlorous,HClO2,ClO2-,1.1 x 10-2,1.96
+Phosphoric (1),H3PO4,H2PO4-,7.52 x 10-3,2.12
+Hexaaquairon(III) ion,Fe(H2O)63+,Fe(H2O)5OH2+,6.3 x 10-3,2.20
+Arsenic (1),H3AsO4,H2AsO4-,5.0 x 10-3,2.3
+Selenous (1),H2SeO3,HSeO3-,2.7 x 10-3,2.57
+Hydrotelluric acid,H2Te,HTe-,2.5 x 10-3,2.6
+Tellurous (1),H2TeO3,HTeO3-,2.0 x 10-3,2.70
+Chloroacetic,CH2ClCOOH,CH2ClCOO-,1.4 x 10-3,2.85
+Citric (1),H3C6H5O7,H2C6H5O7-,8.4 x 10-4,3.08
+Hydrofluoric,HF,F-,7.2 x 10-4,3.14
+Nitrous,HNO2,NO2-,4.0 x 10-4,3.39
+Cyanic,HOCN,OCN-,3.5 x 10-4,3.46
+Acetylsalicylic,HC9H7O4,C9H7O4-,3.0 x 10-4,3.52
+Formic,HCOOH,HCOO-,1.77 x 10-4,3.75
+Lactic,HCH3H5O3,CH3H5O3-,1.38 x 10-4,3.86
+Hydroselenic,H2Se,HSe-,1.3 x 10-4,3.89
+Ascorbic (1),H2C6H6O6,HC6H6O6-,7.9 x 10-5,4.1
+Benzoic,C6H5COOH,C6H5COO-,6.46 x 10-5,4.19
+Oxalic (2),HC2O4-,C2O42-,6.4 x 10-5,4.19
+Anilinium ion,C6H5NH3+,C6H5NH2,2.4 x 10-5,4.62
+Hydrazoic,HN3,N3-,1.9 x 10-5,4.72
+Citric (2),H2C6H5O7-,HC6H5O72-,1.8 x 10-5,4.74
+Acetic,CH3COOH,CH3COO-,1.76 x 10-5,4.75
+Propionic,CH3CH2COOH,CH3CH2COO-,1.34 x 10-5,4.87
+Hydroperoxyl radical,HO2,O2-,1.3 x 10-5,4.88
+Hexaaquaaluminum ion,Al(H2O)63+,Al(H2O)5OH2+,7.9 x 10-6,5.10
+Pyridinium ion,C5H4NH+,C5H4N,5.6 x 10-6,5.25
+Citric (3),HC6H5O72-,C6H5O73-,4.0 x 10-6,5.4
+Hydroxylammonium ion,NH3OH+,NH2OH,1.5 x 10-6,5.82
+Phosphorous (2),H2PO3-,HPO32-,7.0 x 10-7,6.15
+Carbonic (1),H2CO3,HCO3-,4.3 x 10-7,6.37
+Ethylenediammonium(II) ion,H3NCH2CH2NH32+,H2NCH2CH2NH32+,3.7 x 10-7,6.43
+Selenous (2),HSeO3-,SeO32-,2.5 x 10-7,6.60
+Hexaaquacopper(II) ion,Cu(H2O)62+,Cu(H2O)5OH+,1.6 x 10-7,6.80
+Sulfurous (2),HSO3-,SO32-,1.02 x 10-7,6.91
+Arsenic (2),H2AsO4-,HAsO42-,8/9.3 x 10-8,7.10/7.03
+Hydrosulfuric,H2S,HS-,1.0 x 10-7/9.1 x 10-8,7/7.04
+Phosphoric (2),H2PO4-,HPO42-,6.23 x 10-8,7.21
+Hypochlorous,HClO,ClO-,3.5/3.0 x 10-8,7.46/7.53
+Hexaaqualead(II) ion,Pb(H2O)62+,Pb(H2O)5OH+,1.5 x 10-8,7.82
+Hydrazinium ion,N2H5+,N2H4,1.2 x 10-8,7.92
+Tellurous (2),HTeO3-,TeO32-,1.0 x 10-8,8.0
+Nicotinium ion,C10H14N2H+,C10H14N2,1.0 x 10-8,8.0
+Morphinium ion,H2C17H18NO3+,HC17H18NO3,6.2 x 10-9,8.21
+Hypobromous,HBrO,BrO-,2.0 x 10-9,8.7
+Hexaaquacobalt(II) ion,Co(H2O)62+,Co(H2O)5OH+,1.3 x 10-9,8.89
+Hydrocyanic,HCN,CN-,6.17 x 10-10,9.21
+Arsenous (1),H3AsO3,H2AsO3-,6.0 x 10-10,9.22
+Boric (1),H3BO3,H2BO3-,5.8 x 10-10,9.23
+Ammonium ion,NH4+,NH3,5.6 x 10-10,9.25
+Hexaaquairon(II) ion,Fe(H2O)62+,Fe(H2O)5OH+,3.2 x 10-10,9.49
+Phenol,C6H5OH,C6H5O-,1.6 x 10-10,9.8
+Morphine,HC17H18NO3,C17H18NO3-,1.4 x 10-10,9.85
+Trimethylammonium ion,(CH3)3NH+,(CH3)3N,1.4 x 10-10,9.85
+Ethylenediammonium(I) ion,H2NCH2CH2NH3+,H2NCH2CH2NH2,1.2 x 10-10,9.92
+Carbonic (2),HCO3-,CO32-,4.8 x 10-11,10.32
+Hexaaquanickel(II) ion,Ni(H2O)62+,Ni(H2O)5OH+,2.5 x 10-11,10.60
+Methylammonium ion,CH3NH3+,CH3NH2,2.0 x 10-11,10.70
+Hypoiodous,HIO,IO-,2 x 10-11,10.7
+Dimethylammonium ion,(CH3)2NH2+,(CH3)2NH,1.4 x 10-11,10.85
+Arsenic (3),HAsO42-,AsO43-,6.0 x 10-10/3.0 x 10-12,9.22/11.53
+Hydrogen peroxide,H2O2,HO2-,2.4 x 10-12,11.62
+Ascorbic (2),HC6H6O6-,C6H6O62-,1.6 x 10-12,11.8
+Phosphoric (3),HPO42-,PO43-,4.8/2.2 x 10-13,12.32/12.66
+Arsenous (2),H2AsO3-,HAsO32-,3.0 x 10-14,13.52
+Water,H2O,OH-,1.0 x 10-14,14

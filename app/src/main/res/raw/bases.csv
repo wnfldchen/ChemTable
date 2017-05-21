@@ -1,0 +1,74 @@
+Base name,Formula,Conjugate acid,Kb,pKb
+Hydroxide ion,OH-,H2O,1,0
+Hydrogen arsenite ion,HAsO32-,H2AsO3-,3.3 x 10-1,0.48
+Arsenate ion,AsO43-,HAsO42-,3.3 x 10-2,1.48
+Phosphate ion,PO43-,HPO42-,2.8 x 10-2,1.55
+Ascorbate ion,C6H6O62-,HC6H6O6-,6.3 x 10-3,2.2
+Hydroperoxide ion,HO2-,H2O2,4.2 x 10-3,2.38
+Dimethylamine,(CH3)2NH,(CH3)2NH2+,7.4 x 10-4,3.13
+Hypoiodite ion,IO-,HIO,5.0 x 10-4,3.3
+Methylamine,CH3NH2,CH3NH3+,5.0 x 10-4,3.3
+Pentaaquahydroxonickel(II) ion,Ni(H2O)5OH+,Ni(H2O)62+,4.0 x 10-4,3.4
+Carbonate ion,CO32-,HCO3-,2.1 x 10-4,3.68
+Ethylenediamine,H2NCH2CH2NH2,H2NCH2CH2NH3+,8.5 x 10-5,4.07
+Phenoxide ion,C6H5O-,HC6H5O,7.7 x 10-5,4.11
+Trimethylamine,(CH3)3N,(CH3)3NH+,7.4 x 10-5,4.13
+Morphinate ion,C17H18NO3-,HC17H18NO3,7.1 x 10-5,4.15
+Pentaaquahydroxoiron(II) ion,Fe(H2O)5OH+,Fe(H2O)62+,3.1 x 10-5,4.51
+Cyanide ion,CN-,HCN,2.5 x 10-5,4.6
+Ammonia,NH3,NH4+,1.8 x 10-5,4.74
+Dihydrogen arsenite ion,H2AsO3-,H3AsO3,1.7 x 10-5,4.77
+Tetrahydroxoborate ion,B(OH)4-,B(OH)3(H2O),1.4 x 10-5,4.85
+Pentaaquahydroxocobalt(II) ion,Co(H2O)5OH+,Co(H2O)62+,7.7 x 10-6,5.11
+Hypobromite ion,OBr-,HOBr,4.0 x 10-6,5.4
+Morphine,HC17H18NO3,H2C17H18NO3+,1.6 x 10-6,5.8
+Tellurite ion,TeO32-,HTeO3-,1 x 10-6,6
+Nicotine,C10H14N2,C10H14N2H+,1.0 x 10-6,6
+Hydrazine,N2H4,N2H5+,8.5 x 10-7,6.07
+Pentaaquahydroxolead(II) ion,Pb(H2O)5OH+,Pb(H2O)62+,6.7 x 10-7,6.17
+Hypochlorite ion,OCl-,HOCl,2.9 x 10-7,6.54
+Hydrogen arsenate ion,HAsO42-,H2AsO4-,1.8 x 10-7,6.74
+Hydrogen phosphate ion,HPO42-,H2PO4-,1.6 x 10-7,6.8
+Sulfite ion,SO32-,HSO3-,1.6 x 10-7,6.8
+Hydrogen sulfide ion,HS-,H2S,1 x 10-7,7
+Pentaaquahydroxocopper(II) ion,Cu(H2O)5OH+,Cu(H2O)62+,6.25 x 10-8,7.2
+Selenite ion,SeO32-,HSeO3-,4.0 x 10-8,7.4
+Ethylenediammonium(I) ion,H2NCH2CH2NH32+,H3NCH2CH2NH32+,2.7 x 10-8,7.57
+Citrate ion,C6H5O73-,HC6H5O72-,2.5 x 10-8,7.6
+Hydrogen carbonate ion,HCO3-,H2CO3,2.4 x 10-8,7.62
+Hydrogen phosphite ion,HPO32-,H2PO3-,1.4 x 10-8,7.85
+Hydroxylamine,NH2OH,NH3OH+,6.6 x 10-9,8.18
+Pyridine,C5H5N,C5H5NH+,1.5 x 10-9,8.82
+Pentaaquahydroxoaluminum ion,Al(H2O)5OH2+,Al(H2O)63+,1.3 x 10-9,8.89
+Superoxide ion,O2-,HO2,7.6 x 10-10,9.12
+Propanoate ion,CH3CH2COO-,CH3CH2COOH,7.1 x 10-10,9.15
+Hydrogen citrate ion,HC6H5O72-,H2C6H5O7-,5.9 x 10-10,9.23
+Acetate ion,CH3COO-,CH3COOH,5.6 x 10-10,9.25
+Azide ion,N3-,HN3,5.3 x 10-10,9.28
+Aniline,C6H5NH2,C6H5NH3+,4.2 x 10-10,9.38
+Oxalate ion,C2O42-,HC2O4-,1.6 x 10-10,9.8
+Benzoate ion,C6H5COO-,C6H5COOH,1.6 x 10-10,9.8
+Hydrogen ascorbate ion,HC6H6O6-,H2C6H6O6,1.3 x 10-10,9.9
+Hydrogen selenide ion,HSe-,H2Se,7.8 x 10-11,10.11
+Lactate ion,C3H5O3-,HC3H5O3,7.1 x 10-11,10.15
+Formate ion,HCOO-,HCOOH,5.6 x 10-11,10.25
+Dihydrogen arsenate ion,H2AsO4-,H3AsO4,4.0 x 10-11,10.4
+Acetlysalicylate ion,C9H7O4-,HC9H7O4,3.3 x 10-11,10.48
+Cyanate ion,OCN-,HOCN,2.9 x 10-11,10.54
+Nitrite ion,NO2-,HNO2,2.2 x 10-11,10.66
+Fluoride ion,F-,HF,1.4 x 10-11,10.85
+Chloroacetate ion,CH2ClCOO-,CH2ClCOOH,7.1 x 10-12,11.15
+Hydrogen tellurite ion,HTeO3-,H2TeO3,5 x 10-12,11.3
+Hydrogen telluride ion,HTe-,H2Te,4.0 x 10-12,11.4
+Hydrogen selenite ion,HSeO3-,H2SeO3,3.7 x 10-12,11.43
+Pentaaquahydroxoiron(III) ion,Fe(H2O)5OH2+,Fe(H2O)63+,1.6 x 10-12,11.8
+Dihydrogen citrate ion,H2C6H5O7-,H3C6H5O7,1.4 x 10-12,11.85
+Dihydrogen phosphate ion,H2PO4-,H3PO4,1.3 x 10-12,11.89
+Chlorite ion,ClO2-,HClO2,9.1 x 10-13,12.04
+Hydrogen sulfite ion,HSO3-,H2SO3,8.3 x 10-13,12.08
+Sulfate ion,SO42-,HSO4-,8.3 x 10-13,12.08
+Selante ion,SeO42-,HSeO4-,8.3 x 10-13,12.08
+Dihydrogen phosphite ion,H2PO3-,H3PO3,6.3 x 10-13,12.2
+Iodate ion,IO3-,HIO3,6.3 x 10-14,13.2
+Hydrogen oxalate ion,HC2O4-,H2C2O4,1.7 x 10-14,13.77
+Water,H2O,H3O+,1.0 x 10-14,14
