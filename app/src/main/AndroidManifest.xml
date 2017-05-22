@@ -41,7 +41,8 @@
         <activity android:name=".AcidBase" />
         <activity android:name=".AcidBaseDataDisp" />
         <activity android:name=".DilutionCalc" />
-        <activity android:name=".SolutionCalc"></activity>
+        <activity android:name=".SolutionCalc" />
+        <activity android:name=".BufferCalc"></activity>
     </application>
 
 </manifest>

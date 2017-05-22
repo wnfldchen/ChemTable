@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.gmail.wnfldchen.chemtable.BufferCalc">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Buffer pH"
+        android:id="@+id/bufph"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="pKa"
+        android:id="@+id/pka"
+        android:layout_below="@+id/bufph"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="25dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/pkaIn"
+        android:layout_below="@+id/pka"
+        android:layout_alignStart="@+id/pka" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Acid concentration (M)"
+        android:id="@+id/aconc"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/pkaIn"
+        android:layout_alignStart="@+id/pkaIn" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/aconcIn"
+        android:layout_below="@+id/aconc"
+        android:layout_alignLeft="@+id/aconc" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Conjugate base concentration (M)"
+        android:id="@+id/bconc"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/aconcIn"
+        android:layout_alignStart="@+id/aconcIn" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/bconcIn"
+        android:layout_below="@+id/bconc"
+        android:layout_alignLeft="@+id/aconcIn" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate"
+        android:id="@+id/calc"
+        android:layout_below="@+id/bconcIn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:onClick="calc" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="pH:"
+        android:id="@+id/ph"
+        android:layout_below="@+id/calc"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp" />
+
+</RelativeLayout>
