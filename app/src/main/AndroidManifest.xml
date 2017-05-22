@@ -38,7 +38,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".browse" />
         <activity android:name=".AcidBase" />
-        <activity android:name=".AcidBaseDataDisp" />
+        <activity android:name=".AcidBaseDataDisp" android:theme="@style/Theme.AppCompat.Light.Dialog"/>
         <activity android:name=".DilutionCalc" />
         <activity android:name=".SolutionCalc" />
         <activity android:name=".BufferCalc"></activity>
