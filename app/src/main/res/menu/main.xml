@@ -3,16 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:icon="@drawable/ic_browse"
-        android:id="@+id/browse"
         android:orderInCategory="100"
         android:title="Browse"
         android:onClick="onBrowseClick"
-        app:showAsAction="ifRoom" />
-    <item
-        android:icon="@drawable/ic_lookup"
-        android:id="@+id/Search"
-        android:orderInCategory="200"
-        android:title="Search"
-        android:onClick="onSearchClick"
         app:showAsAction="ifRoom" />
 </menu>

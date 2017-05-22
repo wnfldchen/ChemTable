@@ -37,7 +37,6 @@
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".browse" />
-        <activity android:name=".search" />
         <activity android:name=".AcidBase" />
         <activity android:name=".AcidBaseDataDisp" />
         <activity android:name=".DilutionCalc" />

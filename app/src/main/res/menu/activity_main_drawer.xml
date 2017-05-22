@@ -45,7 +45,6 @@
                 <item android:id="@+id/Solution" android:title="Solution"/>
                 <item android:id="@+id/Dilution" android:title="Dilution"/>
                 <item android:id="@+id/Buffer" android:title="Buffer"/>
-                <item android:id="@+id/Titration" android:title="Titration"/>
             </group>
         </menu>
     </item>
